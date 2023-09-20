@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-color: #c2c2c2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    padding: 10px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merienda', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+section h1{
+    font-size: 35px;
+}
+span{
+    color: #f55944;
+}
+
+
+section p{
+    font-size: 21px;
+    margin-bottom: 20px;
+}
+
+
+.btn{
+    text-decoration: none;
+    background-color: #f55944;
+    padding: 10px 25px;
+}
+
+.text{
+    padding: 25px;
+}
